@@ -69,5 +69,3 @@ To run the tests, add a pytest configuration as follows:
 ![intellij_test_setup](intellij_test_setup.png)
 
 Then you will be able to run and debug the unit tests.
-
-# command-line-youtube
